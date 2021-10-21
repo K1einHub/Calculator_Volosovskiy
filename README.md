@@ -2,7 +2,7 @@
 Разработчик: Волосовский Данила Юрьевич, ИСиП 3       
 Образовательная организация: ГБПОУ ТК №21      
 Название программы: Calculator    
-![image](https://user-images.githubusercontent.com/91224596/138234715-7e3cd9af-e8c4-4f11-9aab-43ef810d2d4f.png)    
+![image](https://user-images.githubusercontent.com/91224596/138235498-e806d535-e3e1-429b-a85c-44008faf1046.png)    
 Контактная информация: danila.volosovskiy@mail.ru
 # Calculator_Volosovskiy
 Calculator для вычисления сложений, умножений, вычитаний, делений, возведения в степень
