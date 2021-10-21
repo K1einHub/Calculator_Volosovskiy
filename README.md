@@ -6,4 +6,3 @@
 Контактная информация: danila.volosovskiy@mail.ru
 # Calculator_Volosovskiy
 Calculator для вычисления сложений, умножений, вычитаний, делений, возведения в степень
-[Calcutor.txt](https://github.com/K1einHub/Calculator_Volosovskiy/files/7387055/Calcutor.txt)
